@@ -22,10 +22,10 @@ A robust **Air Booking System** built using **N-Tier Architecture** and **Web AP
 ## **📂 Project Structure**  
 ```
 /Air-Booking-NTier-WebAPIs 
-│── airbooking.APIs # Web API layer 
-│── AirBooking.Repositories # Data Access Layer 
-│── airbooking.AirBooking # MVC Frontend 
-│── airbooking.SharedModels # Shared Models 
+│── APIs # Web API layer 
+│── Repositories # Data Access Layer 
+│── AirBooking # MVC Frontend 
+│── SharedModels # Shared Models 
 │── SQL_Scripts # Database scripts & stored procedures 
 │── README.md # Documentation 
 │── ARCHITECTURE.md # N-Tier explanation with diagrams

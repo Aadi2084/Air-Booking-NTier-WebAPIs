@@ -28,7 +28,7 @@ A robust **Air Booking System** built using **N-Tier Architecture** and **Web AP
 │── SharedModels # Shared Models 
 │── SQL_Scripts # Database scripts & stored procedures 
 │── README.md # Documentation 
-│── ARCHITECTURE.md # N-Tier explanation with diagrams
+│── ARCHITECTURE.jpg # N-Tier explanation with diagrams
 ```
 
 ## **🚀 Setup Instructions**  

@@ -14,10 +14,9 @@ A robust **Air Booking System** built using **N-Tier Architecture** and **Web AP
 ## **🛠️ Tech Stack**  
 - **Frontend**: ASP.NET MVC, HTML, CSS, JavaScript  
 - **Backend**: ASP.NET Web API  
-- **Database**: SQL Server  
+- **Database**: MS SQL Server  
 - **Payment Gateway**: Stripe  
-- **Architecture**: N-Tier Architecture  
-- **ORM**: Entity Framework  
+- **Architecture**: N-Tier Architecture   
 
 ## **📂 Project Structure**  
 ```
